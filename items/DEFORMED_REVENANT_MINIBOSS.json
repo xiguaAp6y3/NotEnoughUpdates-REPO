@@ -8,7 +8,7 @@
     "§7Miniboss that very rarely spawns after killing a",
     "§7Zombie during Revenant Horror Tier IV Quests.",
     "",
-    "§c❤ Health§8: §c360,000"
+    "§c❤ 生命§8: §c360,000"
   ],
   "internalname": "DEFORMED_REVENANT_MINIBOSS",
   "clickcommand": "viewrecipe",

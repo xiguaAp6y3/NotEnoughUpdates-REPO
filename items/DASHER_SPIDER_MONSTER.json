@@ -8,7 +8,7 @@
     "§7found in the Spider's Den. It launches itself",
     "§7towards the player, damaging them in the process.",
     "",
-    "§c❤ Health§8: §c170 - 900"
+    "§c❤ 生命§8: §c170 - 900"
   ],
   "internalname": "DASHER_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

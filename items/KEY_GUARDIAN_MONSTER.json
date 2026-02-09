@@ -5,8 +5,8 @@
   "damage": 3,
   "lore": [
     "§7Mob Types: §2༕ Undead§7, §6⛏ Subterranean",
-    "§c❤ Health§8: §c250,000",
-    "§c❁ Damage§8: §c100"
+    "§c❤ 生命§8: §c250,000",
+    "§c❁ 伤害§8: §c100"
   ],
   "internalname": "KEY_GUARDIAN_MONSTER",
   "clickcommand": "viewrecipe",

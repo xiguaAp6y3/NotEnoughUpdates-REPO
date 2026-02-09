@@ -7,8 +7,8 @@
     "§7Angered by what he's found",
     "§7below.",
     "",
-    "§c❤ Health§8: §c20,000 - 900,000",
-    "§c❤ Health §8(MM) : §c1,000,000 - 12,000,000"
+    "§c❤ 生命§8: §c20,000 - 900,000",
+    "§c❤ 生命 §8(MM) : §c1,000,000 - 12,000,000"
   ],
   "internalname": "ANGRY_ARCHEOLOGIST_MINIBOSS",
   "clickcommand": "viewrecipe",

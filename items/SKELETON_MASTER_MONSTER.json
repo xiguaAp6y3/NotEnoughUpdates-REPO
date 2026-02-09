@@ -7,8 +7,8 @@
     "§7Leader of the Catacombs' skeleton",
     "§7army.",
     "",
-    "§c❤ Health§8: §c59,000 - 900,000",
-    "§c❤ Health §8(MM) : §c3,450,000 - 42,000,000"
+    "§c❤ 生命§8: §c59,000 - 900,000",
+    "§c❤ 生命 §8(MM) : §c3,450,000 - 42,000,000"
   ],
   "internalname": "SKELETON_MASTER_MONSTER",
   "clickcommand": "viewrecipe",

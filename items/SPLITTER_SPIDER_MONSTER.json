@@ -8,7 +8,7 @@
     "§7silverfish upon death. They spawn in the Spider's",
     "§7Den (Northwest of the Graveyard). ",
     "",
-    "§c❤ Health§8: §c160"
+    "§c❤ 生命§8: §c160"
   ],
   "internalname": "SPLITTER_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

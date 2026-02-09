@@ -8,7 +8,7 @@
     "§7to replace a §6Golden Goblin §7when it is spawned.",
     "",
     "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded§7, §d♣ Elusive",
-    "§c❤ Health§8: §c5"
+    "§c❤ 生命§8: §c5"
   ],
   "internalname": "DIAMOND_GOBLIN_MONSTER",
   "clickcommand": "viewrecipe",

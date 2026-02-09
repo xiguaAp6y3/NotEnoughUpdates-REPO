@@ -4,7 +4,7 @@
   "nbttag": "{ExtraAttributes:{id:\"HASTE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:end_stone\",display:{Lore:[0:\"§7Gives §a+100 §f✦ Speed§7 when standing\",1:\"§7on top of this block.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aHaste Block\"},ench:[]}",
   "damage": 0,
   "lore": [
-    "§7Gives §a+100 §f✦ Speed§7 when standing",
+    "§7Gives §a+100 §f✦ 速度§7 when standing",
     "§7on top of this block.",
     "",
     "§a§lUNCOMMON"

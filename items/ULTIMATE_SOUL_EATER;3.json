@@ -5,7 +5,7 @@
   "damage": 0,
   "lore": [
     "§d§lSoul Eater III",
-    "§7Your weapon gains §c6x §7the Damage of",
+    "§7Your weapon gains §c6x §7the 伤害 of",
     "§7the latest monster killed and adds it",
     "§7at the end of your next critical hit.",
     "§7§8(Max 1M outside Dungeons).",

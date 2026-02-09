@@ -7,7 +7,7 @@
     "§7The Bat Piñata is a bat that only appears during",
     "§7the Spooky Festival.",
     "",
-    "§c❤ Health§8: §c5"
+    "§c❤ 生命§8: §c5"
   ],
   "internalname": "BAT_PINATA_MONSTER",
   "clickcommand": "viewrecipe",

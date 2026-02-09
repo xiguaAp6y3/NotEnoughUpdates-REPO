@@ -6,8 +6,8 @@
   "lore": [
     "§7Creepy crawler",
     "",
-    "§c❤ Health§8: §c22,000 - 420,000",
-    "§c❤ Health §8(MM) : §c500,000 - 9,500,000"
+    "§c❤ 生命§8: §c22,000 - 420,000",
+    "§c❤ 生命 §8(MM) : §c500,000 - 9,500,000"
   ],
   "internalname": "CELLAR_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

@@ -6,8 +6,8 @@
   "lore": [
     "§7Leader of the Undead.",
     "",
-    "§c❤ Health§8: §c1,700,000 - 3,500,000",
-    "§c❤ Health §8(MM) : §c160,000,000 - 250,000,000"
+    "§c❤ 生命§8: §c1,700,000 - 3,500,000",
+    "§c❤ 生命 §8(MM) : §c160,000,000 - 250,000,000"
   ],
   "internalname": "ZOMBIE_COMMANDER_MONSTER",
   "clickcommand": "viewrecipe",

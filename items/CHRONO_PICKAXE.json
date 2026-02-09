@@ -4,7 +4,7 @@
   "nbttag": "{ExtraAttributes:{id:\"CHRONO_PICKAXE\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+5\",1:\"\",2:\"§7Allows you to break living metal,\",3:\"§5Obsolite§7, §9Timite§7, and §bYoungite§7.\",4:\"\",5:\"§8This pickaxe is not a particular fan\",6:\"§8of the like, overall vibe.\",7:\"\",8:\"§5§lEPIC SWORD\"],Name:\"§5Chrono Pickaxe\"}}",
   "damage": 0,
   "lore": [
-    "§7Rift Damage: §5+5",
+    "§7Rift 伤害: §5+5",
     "",
     "§7Allows you to break living metal,",
     "§5Obsolite§7, §9Timite§7, and §bYoungite§7.",

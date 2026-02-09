@@ -8,7 +8,7 @@
     "§7update. It is a hostile zombie type mob that's",
     "§7a bit tougher than regular zombies.",
     "",
-    "§c❤ Health§8: §c2,000"
+    "§c❤ 生命§8: §c2,000"
   ],
   "internalname": "CRYPT_GHOUL_MONSTER",
   "clickcommand": "viewrecipe",

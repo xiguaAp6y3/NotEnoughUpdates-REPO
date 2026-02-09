@@ -9,7 +9,7 @@
     "§7the Leather Collection. Cows can also be spawned",
     "§7with the use of a Cow Minion. ",
     "",
-    "§c❤ Health§8: §c50"
+    "§c❤ 生命§8: §c50"
   ],
   "internalname": "COW_ANIMAL",
   "clickcommand": "viewrecipe",

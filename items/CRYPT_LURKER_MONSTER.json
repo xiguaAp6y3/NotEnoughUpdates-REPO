@@ -6,8 +6,8 @@
   "lore": [
     "§7Lurking in the shadows",
     "",
-    "§c❤ Health§8: §c12,000 - 420,000",
-    "§c❤ Health §8(MM) : §c850,000 - 13,000,000"
+    "§c❤ 生命§8: §c12,000 - 420,000",
+    "§c❤ 生命 §8(MM) : §c850,000 - 13,000,000"
   ],
   "internalname": "CRYPT_LURKER_MONSTER",
   "clickcommand": "viewrecipe",

@@ -6,7 +6,7 @@
   "lore": [
     "§8Fishing Pet",
     "",
-    "§7Fishing Speed: §b{FISHING_SPEED}",
+    "§7Fishing 速度: §b{FISHING_SPEED}",
     "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}",
     "",
     "§6Sharp Attitude",
@@ -14,7 +14,7 @@
     "§7their maximum health missing.",
     "",
     "§6Pursuit",
-    "§7Gain §b+{1}✯ Magic Find §7against §3Sea",
+    "§7Gain §b+{1}✯ 魔法发现 §7against §3Sea",
     "§3Creatures§7.",
     "",
     "§6Primordial Fisher",

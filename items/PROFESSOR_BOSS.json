@@ -10,8 +10,8 @@
     "§7killed, he attacks the player. Once he is at 25% health,",
     "§7he will merge with his guardians and continue to fight.",
     "",
-    "§c❤ Health§8: §c3,000.000",
-    "§c❤ Health §8(MM): §c600.000.000"
+    "§c❤ 生命§8: §c3,000.000",
+    "§c❤ 生命 §8(MM): §c600.000.000"
   ],
   "internalname": "PROFESSOR_BOSS",
   "clickcommand": "",

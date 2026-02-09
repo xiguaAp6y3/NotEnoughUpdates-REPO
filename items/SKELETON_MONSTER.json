@@ -6,7 +6,7 @@
   "lore": [
     "§7Just a normal skelly",
     "",
-    "§c❤ Health§8: §c100 - 707"
+    "§c❤ 生命§8: §c100 - 707"
   ],
   "internalname": "SKELETON_MONSTER",
   "clickcommand": "viewrecipe",

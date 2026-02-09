@@ -4,7 +4,7 @@
   "nbttag": "{ExtraAttributes:{id:\"EON_PICKAXE\"},HideFlags:254,ItemModel:\"minecraft:golden_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+5\",1:\"\",2:\"§7Allows you to break living metal ore,\",3:\"§9Timite§7, and §bYoungite§7.\",4:\"\",5:\"§8This pickaxe is not a particular fan\",6:\"§8of time passing.\",7:\"\",8:\"§5§lEPIC SWORD\"],Name:\"§5Eon Pickaxe\"}}",
   "damage": 0,
   "lore": [
-    "§7Rift Damage: §5+5",
+    "§7Rift 伤害: §5+5",
     "",
     "§7Allows you to break living metal ore,",
     "§9Timite§7, and §bYoungite§7.",

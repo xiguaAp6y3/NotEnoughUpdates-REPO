@@ -8,7 +8,7 @@
     "§7Miniboss that very rarely spawns after killing a",
     "§7Enderman during Voidgloom Seraph Tier III Quests.",
     "",
-    "§c❤ Health§8: §c12,000,000"
+    "§c❤ 生命§8: §c12,000,000"
   ],
   "internalname": "VOIDLING_DEVOTEE_MINIBOSS",
   "clickcommand": "viewrecipe",

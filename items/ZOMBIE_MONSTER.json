@@ -6,7 +6,7 @@
   "lore": [
     "§7The Zombie is a natural mob in Minecraft. Zombies",
     "",
-    "§c❤ Health§8: §c100 - 707"
+    "§c❤ 生命§8: §c100 - 707"
   ],
   "internalname": "ZOMBIE_MONSTER",
   "clickcommand": "viewrecipe",

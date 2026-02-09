@@ -9,7 +9,7 @@
     "§7whoever dares to trespass",
     "",
     "§7Mob Types: §6⛏ Subterranean§7, ⚙ Construct, §5♃ Arcane",
-    "§c❤ Health§8: §c15,000"
+    "§c❤ 生命§8: §c15,000"
   ],
   "internalname": "AUTOMATON_MONSTER",
   "clickcommand": "viewrecipe",

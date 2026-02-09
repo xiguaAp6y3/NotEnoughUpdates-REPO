@@ -8,7 +8,7 @@
     "§7Miniboss. It spawns very rarely when a player doing",
     "§7the Tarantula Broodfather Tier IV quest kills a spider.",
     "",
-    "§c❤ Health§8: §c576,000"
+    "§c❤ 生命§8: §c576,000"
   ],
   "internalname": "MUTANT_TARANTULA_MINIBOSS",
   "clickcommand": "viewrecipe",

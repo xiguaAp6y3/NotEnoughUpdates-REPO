@@ -10,7 +10,7 @@
     "§7The Golden Ghoul's appearance is of a zombie wearing",
     "§7Golden Armor holding a Golden Sword.",
     "",
-    "§c❤ Health§8: §c45,000"
+    "§c❤ 生命§8: §c45,000"
   ],
   "internalname": "GOLDEN_GHOUL_MONSTER",
   "clickcommand": "viewrecipe",

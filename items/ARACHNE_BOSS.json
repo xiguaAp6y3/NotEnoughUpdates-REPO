@@ -6,7 +6,7 @@
   "lore": [
     "§7The strongest spider in the den.",
     "",
-    "§c❤ Health§8: §c20,000 - 100,000"
+    "§c❤ 生命§8: §c20,000 - 100,000"
   ],
   "internalname": "ARACHNE_BOSS",
   "clickcommand": "viewrecipe",

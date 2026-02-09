@@ -5,9 +5,9 @@
   "damage": 3,
   "lore": [
     "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid",
-    "§c❤ Health§8: §c750,000",
-    "§c❁ Damage§8: §c6,250",
-    "§a❈ Defense§8: §a1,000"
+    "§c❤ 生命§8: §c750,000",
+    "§c❁ 伤害§8: §c6,250",
+    "§a❈ 防御§8: §a1,000"
   ],
   "internalname": "GLACITE_BOWMAN_MONSTER",
   "clickcommand": "",

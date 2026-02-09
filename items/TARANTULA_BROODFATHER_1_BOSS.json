@@ -11,7 +11,7 @@
     "",
     "§eBackstab",
     "§7Occasionally leaps behind you. Attacks",
-    "§7from behind deal §c50% Damage§7."
+    "§7from behind deal §c50% 伤害§7."
   ],
   "internalname": "TARANTULA_BROODFATHER_1_BOSS",
   "clickcommand": "viewrecipe",

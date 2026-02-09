@@ -6,8 +6,8 @@
   "lore": [
     "§7Defenders of the Catacombs.",
     "",
-    "§c❤ Health§8: §c140,000 - 1,200,000",
-    "§c❤ Health §8(MM) : §c6,000,000 - 36,000,000"
+    "§c❤ 生命§8: §c140,000 - 1,200,000",
+    "§c❤ 生命 §8(MM) : §c6,000,000 - 36,000,000"
   ],
   "internalname": "ZOMBIE_SOLDIER_MONSTER",
   "clickcommand": "viewrecipe",

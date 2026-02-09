@@ -6,8 +6,8 @@
   "lore": [
     "§7Just more grunts in the platoon.",
     "",
-    "§c❤ Health§8: §c18,000 - 62,000",
-    "§c❤ Health §8(MM) : §c1,300,000 - 6,000,000"
+    "§c❤ 生命§8: §c18,000 - 62,000",
+    "§c❤ 生命 §8(MM) : §c1,300,000 - 6,000,000"
   ],
   "internalname": "SKELETON_GRUNT_MONSTER",
   "clickcommand": "viewrecipe",

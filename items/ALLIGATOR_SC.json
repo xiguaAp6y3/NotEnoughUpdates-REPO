@@ -4,7 +4,7 @@
   "nbttag": "{HideFlags:254,SkullOwner:{Id:\"01d49fe5-7c38-3972-a7ef-1134534b67e8\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0MjMyOTU1ODgzMywKICAicHJvZmlsZUlkIiA6ICJkYzA5MjA4MTM2ZDg0Y2Y5OWIwMzFmMGI1NzM4OTdmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLRUlUSF8wMzAyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjZjZhYmZiYzc3OGIxZmFjMGQ2ZGIxNjFlNzQ0MzhhMWI0NjgzMjNiNmY5M2ZhNGQ2NTBlNDJjZDBmNTgwMmEiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c600,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Alligator (Sea Creature)\"},ExtraAttributes:{id:\"ALLIGATOR_SC\"}}",
   "damage": 3,
   "lore": [
-    "§c❤ Health§8: §c600,000",
+    "§c❤ 生命§8: §c600,000",
     "",
     "§9§lRARE"
   ],

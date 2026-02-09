@@ -10,8 +10,8 @@
     "§7the middle and back areas.",
     "",
     "§7Mob Type: §5⊙ Ender",
-    "§c❤ Health§8: §c9,500",
-    "§c❁ Damage§8: §c500"
+    "§c❤ 生命§8: §c9,500",
+    "§c❁ 伤害§8: §c500"
   ],
   "internalname": "WATCHER_MONSTER",
   "clickcommand": "viewrecipe",

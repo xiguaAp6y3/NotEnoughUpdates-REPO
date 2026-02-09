@@ -6,8 +6,8 @@
   "lore": [
     "§7A soul a day keeps the doctor away.",
     "",
-    "§c❤ Health§8: §c18,000 - 800,000",
-    "§c❤ Health §8(MM) : §c1,100,000 - 20,000,000"
+    "§c❤ 生命§8: §c18,000 - 800,000",
+    "§c❤ 生命 §8(MM) : §c1,100,000 - 20,000,000"
   ],
   "internalname": "CRYPT_SOULEATER_MONSTER",
   "clickcommand": "viewrecipe",

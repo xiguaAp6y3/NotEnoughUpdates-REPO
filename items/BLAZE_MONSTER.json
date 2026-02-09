@@ -6,7 +6,7 @@
   "lore": [
     "§7They started the fire.",
     "",
-    "§c❤ Health§8: §c700,000"
+    "§c❤ 生命§8: §c700,000"
   ],
   "internalname": "BLAZE_MONSTER",
   "clickcommand": "viewrecipe",

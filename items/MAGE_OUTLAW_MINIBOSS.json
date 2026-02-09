@@ -6,7 +6,7 @@
   "lore": [
     "§7Ate too much Sulphur.",
     "",
-    "§c❤ Health§8: §c70,000,000"
+    "§c❤ 生命§8: §c70,000,000"
   ],
   "internalname": "MAGE_OUTLAW_MINIBOSS",
   "clickcommand": "viewrecipe",

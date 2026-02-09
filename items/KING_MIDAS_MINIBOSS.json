@@ -6,8 +6,8 @@
   "lore": [
     "§7He loves gold.",
     "",
-    "§c❤ Health§8: §c300,000 - 4,300,000",
-    "§c❤ Health §8(MM) : §c8,600,000 - 35,000,000"
+    "§c❤ 生命§8: §c300,000 - 4,300,000",
+    "§c❤ 生命 §8(MM) : §c8,600,000 - 35,000,000"
   ],
   "internalname": "KING_MIDAS_MINIBOSS",
   "clickcommand": "viewrecipe",

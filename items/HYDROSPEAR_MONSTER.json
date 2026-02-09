@@ -7,8 +7,8 @@
     "§7They are a little washed up.",
     "",
     "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §2༕ Undead",
-    "§c❤ Health§8: §c5,000",
-    "§c❁ Damage§8: §c500"
+    "§c❤ 生命§8: §c5,000",
+    "§c❁ 伤害§8: §c500"
   ],
   "internalname": "HYDROSPEAR_MONSTER",
   "clickcommand": "viewrecipe",

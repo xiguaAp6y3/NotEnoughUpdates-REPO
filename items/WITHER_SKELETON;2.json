@@ -9,7 +9,7 @@
     "§7Defense: §a{DEFENSE}",
     "§7Strength: §c{STRENGTH}",
     "§7Crit Chance: §9{CRIT_CHANCE}%",
-    "§7Crit Damage: §9{CRIT_DAMAGE}%",
+    "§7Crit 伤害: §9{CRIT_DAMAGE}%",
     "§7Intelligence: §b{INTELLIGENCE}",
     "",
     "§6Stronger Bones",

@@ -6,8 +6,8 @@
   "lore": [
     "§7So lonely.",
     "",
-    "§c❤ Health§8: §c5,000 - 120,000",
-    "§c❤ Health §8(MM) : §c140,000 - 2,000,000"
+    "§c❤ 生命§8: §c5,000 - 120,000",
+    "§c❤ 生命 §8(MM) : §c140,000 - 2,000,000"
   ],
   "internalname": "LONELY_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

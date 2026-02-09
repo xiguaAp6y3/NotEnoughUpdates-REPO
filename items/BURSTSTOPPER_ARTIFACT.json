@@ -5,7 +5,7 @@
   "damage": 3,
   "lore": [
     "§7Strength: §c+2",
-    "§7True Defense: §f+3",
+    "§7True 防御: §f+3",
     "",
     "§7If an incoming hit would deal at least",
     "§c50% §7of your §c❤§7, multiply its damage",

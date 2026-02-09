@@ -6,7 +6,7 @@
   "lore": [
     "§8Mining Pet",
     "",
-    "§7Mining Speed: §6{MINING_SPEED}",
+    "§7Mining 速度: §6{MINING_SPEED}",
     "§7Mining Fortune: §6{MINING_FORTUNE}",
     "",
     "§6Burrowing",
@@ -14,7 +14,7 @@
     "§eTreasure Chests §7while mining.",
     "",
     "§6Drill Infusion",
-    "§7Grants §6+{1}☘ Gemstone Fortune §7to",
+    "§7Grants §6+{1}☘ 宝石时运 §7to",
     "§7Drills.",
     "",
     "§eRight-click to add this pet to your",

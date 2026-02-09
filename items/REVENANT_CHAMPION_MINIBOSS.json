@@ -9,7 +9,7 @@
     "§7spawned when a player with an active Revenant Horror",
     "§7Tier IV Quest Kills a Zombie. ",
     "",
-    "§c❤ Health§8: §c90,000"
+    "§c❤ 生命§8: §c90,000"
   ],
   "internalname": "REVENANT_CHAMPION_MINIBOSS",
   "clickcommand": "viewrecipe",

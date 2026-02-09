@@ -10,8 +10,8 @@
     "§7different abilities. The player must kill the",
     "§7true livid to complete the boss fight.",
     "",
-    "§c❤ Health§8: §c7,000.000",
-    "§c❤ Health §8(MM): §c600.000.000"
+    "§c❤ 生命§8: §c7,000.000",
+    "§c❤ 生命 §8(MM): §c600.000.000"
   ],
   "internalname": "LIVID_BOSS",
   "clickcommand": "viewrecipe",

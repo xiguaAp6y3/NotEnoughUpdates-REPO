@@ -7,8 +7,8 @@
     "§7No chill!",
     "",
     "§7Mob Type: §2⸙ Woodland§7, §f🦴 Skeletal",
-    "§c❤ Health§8: §c400",
-    "§c❁ Damage§8: §c200"
+    "§c❤ 生命§8: §c400",
+    "§c❁ 伤害§8: §c200"
   ],
   "internalname": "CHILLBLADE_MONSTER",
   "clickcommand": "viewrecipe",

@@ -8,8 +8,8 @@
     "§7when breaking a tree on §2Galetea§7.",
     "",
     "§7Mob Type: §2⸙ Woodland§7, ✈ Airborne",
-    "§c❤ Health§8: §c200",
-    "§c❁ Damage§8: §c1"
+    "§c❤ 生命§8: §c200",
+    "§c❁ 伤害§8: §c1"
   ],
   "internalname": "PHANPYRE_MONSTER",
   "clickcommand": "viewrecipe",

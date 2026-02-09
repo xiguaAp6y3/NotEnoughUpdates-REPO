@@ -6,8 +6,8 @@
   "lore": [
     "§7Scared of its own shadow.",
     "",
-    "§c❤ Health§8: §c19,000 - 44,000",
-    "§c❤ Health §8(MM) : §c1,800,000 - 3,300,000"
+    "§c❤ 生命§8: §c19,000 - 44,000",
+    "§c❤ 生命 §8(MM) : §c1,800,000 - 3,300,000"
   ],
   "internalname": "SCARED_SKELETON_MONSTER",
   "clickcommand": "viewrecipe",

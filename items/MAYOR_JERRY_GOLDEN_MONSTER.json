@@ -11,8 +11,8 @@
     "§7 - §a5.40% §8(With Enderman Slayer 9)",
     "",
     "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded",
-    "§c❤ Health§8: §c6",
-    "§c❁ Damage§8: §c1"
+    "§c❤ 生命§8: §c6",
+    "§c❁ 伤害§8: §c1"
   ],
   "internalname": "MAYOR_JERRY_GOLDEN_MONSTER",
   "clickcommand": "viewrecipe",

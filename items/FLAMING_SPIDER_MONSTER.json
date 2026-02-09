@@ -6,7 +6,7 @@
   "lore": [
     "§7Can't stop burning.",
     "",
-    "§c❤ Health§8: §c1,200,000"
+    "§c❤ 生命§8: §c1,200,000"
   ],
   "internalname": "FLAMING_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

@@ -8,7 +8,7 @@
     "§7in the Dragon's Nest. Zealots are not hostile towards",
     "§7players, unless provoked, like normal Enderman. ",
     "",
-    "§c❤ Health§8: §c13,000"
+    "§c❤ 生命§8: §c13,000"
   ],
   "internalname": "ZEALOT_MONSTER",
   "clickcommand": "viewrecipe",

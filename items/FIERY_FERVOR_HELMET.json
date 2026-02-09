@@ -6,7 +6,7 @@
   "lore": [
     "§7Health: §c+360",
     "§7Defense: §a+200",
-    "§7True Defense: §f+10",
+    "§7True 防御: §f+10",
     "§7Intelligence: §b+30",
     " §8[⚔] [⚔]",
     "",
@@ -18,7 +18,7 @@
     "§6Ability: Ground Pound §e§lSNEAK",
     "§7At §c10§7 stacks, sneak to reset your stacks and",
     "§7perform §a2 §cGround Pounds§7 dealing damage to",
-    "§7mobs within §a9§7 blocks. §8(Damage scales with your",
+    "§7mobs within §a9§7 blocks. §8(伤害 scales with your",
     "§8EHP).",
     " ",
     "§6Full Set Bonus: Intimidate §7(0/4)",

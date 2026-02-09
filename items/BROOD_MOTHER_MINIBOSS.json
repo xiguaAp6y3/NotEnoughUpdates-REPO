@@ -10,7 +10,7 @@
     "§7but upon death, it spawns Cave Spiders and drops ",
     "§7the Spider Talisman. ",
     "",
-    "§c❤ Health§8: §c1,000,000"
+    "§c❤ 生命§8: §c1,000,000"
   ],
   "internalname": "BROOD_MOTHER_MINIBOSS",
   "clickcommand": "viewrecipe",

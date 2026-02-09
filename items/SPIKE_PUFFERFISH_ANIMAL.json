@@ -5,8 +5,8 @@
   "damage": 3,
   "lore": [
     "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal",
-    "§c❤ Health§8: §c5,000",
-    "§c❁ Damage§8: §c1"
+    "§c❤ 生命§8: §c5,000",
+    "§c❁ 伤害§8: §c1"
   ],
   "internalname": "SPIKE_PUFFERFISH_ANIMAL",
   "clickcommand": "viewrecipe",

@@ -8,7 +8,7 @@
     "§7Miniboss that very rarely spawns after killing a",
     "§7Zombie during Revenant Horror Tier V Quests.",
     "",
-    "§c❤ Health§8: §c600,000"
+    "§c❤ 生命§8: §c600,000"
   ],
   "internalname": "ATONED_CHAMPION_MINIBOSS",
   "clickcommand": "viewrecipe",

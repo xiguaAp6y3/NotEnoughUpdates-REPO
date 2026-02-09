@@ -6,12 +6,12 @@
   "lore": [
     "§7The Headless Horseman is a boss that can only",
     "§7be spawned by buying the horseman's candle from",
-    "§7the Fear Mongerer during the Spooky Festival.",
+    "§7the 恐惧 Mongerer during the Spooky Festival.",
     "§7It can be spawned at any time during the night",
     "§7in the Graveyard or the Wilderness. ",
     "",
     "§7Mob Types: §6☽ Spooky§7, §f🦴 Skeletal§7, §a☮ Animal",
-    "§c❤ Health§8: §c3,000,000"
+    "§c❤ 生命§8: §c3,000,000"
   ],
   "internalname": "HEADLESS_HORSEMAN_BOSS",
   "clickcommand": "",

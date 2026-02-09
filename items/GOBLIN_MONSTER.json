@@ -9,7 +9,7 @@
     "§7during goblin raid events.",
     "",
     "§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean",
-    "§c❤ Health§8: §c200 - 50,000"
+    "§c❤ 生命§8: §c200 - 50,000"
   ],
   "internalname": "GOBLIN_MONSTER",
   "clickcommand": "viewrecipe",

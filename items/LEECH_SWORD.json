@@ -4,7 +4,7 @@
   "nbttag": "{ExtraAttributes:{id:\"LEECH_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Regens §b3 Mana §7on hit.\",1:\"\",2:\"§8This item can be reforged!\",3:\"§9§lRARE SWORD\"],Name:\"§9Leech Sword\"}}",
   "damage": 0,
   "lore": [
-    "§7Regens §b3 Mana §7on hit.",
+    "§7Regens §b3 法力 §7on hit.",
     "",
     "§8This item can be reforged!",
     "§9§lRARE SWORD"

@@ -6,7 +6,7 @@
   "lore": [
     "§8Alchemy Pet",
     "",
-    "§7Crit Damage: §9{CRIT_DAMAGE}%",
+    "§7Crit 伤害: §9{CRIT_DAMAGE}%",
     "§7Intelligence: §b{INTELLIGENCE}",
     "",
     "§6Flamboyant",
@@ -17,7 +17,7 @@
     "§7Boosts potions duration by §a{1}%§7.",
     "",
     "§6Bird Discourse",
-    "§7Gives §c+{2}❁ Strength §7to players",
+    "§7Gives §c+{2}❁ 力量 §7to players",
     "§7within §a20 §7blocks",
     "§8Doesn't stack",
     "",

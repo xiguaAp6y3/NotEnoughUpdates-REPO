@@ -8,7 +8,7 @@
     "§7Magma Boss by the community) is a hostile mob",
     "§7found in the Magma Chamberm within the Blazing Volcano.",
     "",
-    "§c❤ Health§8: §c200,000,000"
+    "§c❤ 生命§8: §c200,000,000"
   ],
   "internalname": "MAGMA_CUBE_BOSS",
   "clickcommand": "viewrecipe",

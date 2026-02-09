@@ -8,7 +8,7 @@
     "§7that has a small chance to be spawned upon killing",
     "§7a Wolf During a Sven Packmaster Tier III Quest.",
     "",
-    "§c❤ Health§8: §c45,000"
+    "§c❤ 生命§8: §c45,000"
   ],
   "internalname": "PACK_ENFORCER_MINIBOSS",
   "clickcommand": "viewrecipe",

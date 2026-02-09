@@ -10,7 +10,7 @@
     "§7level 9 Magma Cubes spawn, or the Magma Cube Boss.",
     "§7It can also be spawned from Ghast Minions.",
     "",
-    "§c❤ Health§8: §c330"
+    "§c❤ 生命§8: §c330"
   ],
   "internalname": "GHAST_MONSTER",
   "clickcommand": "viewrecipe",

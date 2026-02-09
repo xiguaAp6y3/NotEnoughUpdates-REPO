@@ -7,7 +7,7 @@
     "§7Charged Creeper is a mob that spawn during the Thunder",
     "§7event from the Blood God Shrine.",
     "",
-    "§c❤ Health§8: §c17,500"
+    "§c❤ 生命§8: §c17,500"
   ],
   "internalname": "CHARGED_CREEPER_MONSTER",
   "clickcommand": "viewrecipe",

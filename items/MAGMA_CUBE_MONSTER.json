@@ -9,7 +9,7 @@
     "§7Cube Minion. The higher level they are, the more Magma",
     "§7Cream they drop. ",
     "",
-    "§c❤ Health§8: §c400,000"
+    "§c❤ 生命§8: §c400,000"
   ],
   "internalname": "MAGMA_CUBE_MONSTER",
   "clickcommand": "viewrecipe",

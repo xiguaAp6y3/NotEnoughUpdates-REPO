@@ -8,7 +8,7 @@
     "§7has a small chance to be spawned upon killing a",
     "§7Wolf During a Tier IV Sven Packmaster Quest.",
     "",
-    "§c❤ Health§8: §c120,000"
+    "§c❤ 生命§8: §c120,000"
   ],
   "internalname": "SVEN_FOLLOWER_MINIBOSS",
   "clickcommand": "viewrecipe",

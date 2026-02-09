@@ -10,7 +10,7 @@
     "",
     "§7Damage: §c{DAMAGE}",
     "§7Strength: §c{STRENGTH}",
-    "§7Crit Damage: §9{CRIT_DAMAGE}%",
+    "§7Crit 伤害: §9{CRIT_DAMAGE}%",
     "",
     "§6Blizzard",
     "§7Enemies within §a{0} §7blocks are slowed",

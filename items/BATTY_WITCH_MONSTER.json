@@ -9,7 +9,7 @@
     "§7This enemy spawns bats that follows a player",
     "§7and explodes on them.",
     "",
-    "§c❤ Health§8: §c17"
+    "§c❤ 生命§8: §c17"
   ],
   "internalname": "BATTY_WITCH_MONSTER",
   "clickcommand": "viewrecipe",

@@ -4,13 +4,13 @@
   "nbttag": "{ExtraAttributes:{id:\"SELF_RECURSIVE_PICKAXE\"},HideFlags:254,ItemModel:\"minecraft:diamond_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+5\",1:\"§7Speed: §f+2\",2:\"\",3:\"§7Allows you to break living metal ore\",4:\"§7and, potentially, living metal faces.\",5:\"\",6:\"§7Regens §b4 Mana §7on hit.\",7:\"\",8:\"§9§lRARE SWORD\"],Name:\"§9Self-Recursive Pickaxe\"}}",
   "damage": 0,
   "lore": [
-    "§7Rift Damage: §5+5",
+    "§7Rift 伤害: §5+5",
     "§7Speed: §f+2",
     "",
     "§7Allows you to break living metal ore",
     "§7and, potentially, living metal faces.",
     "",
-    "§7Regens §b4 Mana §7on hit.",
+    "§7Regens §b4 法力 §7on hit.",
     "",
     "§9§lRARE SWORD"
   ],

@@ -7,7 +7,7 @@
     "§7Pigs are passive mobs that can be found at the",
     "§7Barn and they drop raw porkchops and experience. ",
     "",
-    "§c❤ Health§8: §c50"
+    "§c❤ 生命§8: §c50"
   ],
   "internalname": "PIG_ANIMAL",
   "clickcommand": "viewrecipe",

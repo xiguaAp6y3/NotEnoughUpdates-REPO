@@ -7,7 +7,7 @@
     "§7The Bat is a Mob that can be spawned from the",
     "§7Roofed Forest Island's Bat Crystal during the night.",
     "",
-    "§c❤ Health§8: §c100"
+    "§c❤ 生命§8: §c100"
   ],
   "internalname": "BAT_MONSTER",
   "clickcommand": "viewrecipe",

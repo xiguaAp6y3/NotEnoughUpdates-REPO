@@ -8,7 +8,7 @@
     "§7They have a §a33.21 §7chance to spawn from §eEndstone §7nodes,",
     "§7and a §a30.54% §7chance to spawn from §5Obsidian §7nodes.",
     "",
-    "§c❤ Health§8: §c4,500"
+    "§c❤ 生命§8: §c4,500"
   ],
   "internalname": "NEST_ENDERMITE_MONSTER",
   "clickcommand": "viewrecipe",

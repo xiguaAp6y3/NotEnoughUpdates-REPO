@@ -10,8 +10,8 @@
     "§7he is killed. Then he revives appearing as a clown",
     "§7and attacks the player.",
     "",
-    "§c❤ Health§8: §c250.000",
-    "§c❤ Health §8(MM): §c200.000.000"
+    "§c❤ 生命§8: §c250.000",
+    "§c❤ 生命 §8(MM): §c200.000.000"
   ],
   "internalname": "BONZO_BOSS",
   "clickcommand": "viewrecipe",

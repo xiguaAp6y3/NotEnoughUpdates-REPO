@@ -9,7 +9,7 @@
     "§7amount of time. Weaver Spiders can be found in the",
     "§7Spider's Den, usually higher up in the nest. ",
     "",
-    "§c❤ Health§8: §c160 - 800"
+    "§c❤ 生命§8: §c160 - 800"
   ],
   "internalname": "WEAVER_SPIDER_MONSTER",
   "clickcommand": "viewrecipe",

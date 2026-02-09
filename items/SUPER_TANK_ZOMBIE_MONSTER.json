@@ -6,8 +6,8 @@
   "lore": [
     "§7Heftiest zombie.",
     "",
-    "§c❤ Health§8: §c20,000 - 90,000",
-    "§c❤ Health §8(MM) : §c180,000 - 1.050,000"
+    "§c❤ 生命§8: §c20,000 - 90,000",
+    "§c❤ 生命 §8(MM) : §c180,000 - 1.050,000"
   ],
   "internalname": "SUPER_TANK_ZOMBIE_MONSTER",
   "clickcommand": "viewrecipe",

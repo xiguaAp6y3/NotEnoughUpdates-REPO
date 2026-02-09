@@ -10,8 +10,8 @@
     "§7kill to spawn a Spirit Bear which when killed drops the Spirit",
     "§7Bow which is a single shot bow and the only way to damage him.",
     "",
-    "§c❤ Health§8: §c4 hits",
-    "§c❤ Health §8(MM): §c6 hits"
+    "§c❤ 生命§8: §c4 hits",
+    "§c❤ 生命 §8(MM): §c6 hits"
   ],
   "internalname": "THORN_BOSS",
   "clickcommand": "viewrecipe",

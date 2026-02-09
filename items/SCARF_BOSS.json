@@ -11,8 +11,8 @@
     "§7defeated, the barrier comes down",
     "§7and you must kill him in the second phase.",
     "",
-    "§c❤ Health§8: §c1,000.000",
-    "§c❤ Health §8(MM): §c375.000.000"
+    "§c❤ 生命§8: §c1,000.000",
+    "§c❤ 生命 §8(MM): §c375.000.000"
   ],
   "internalname": "SCARF_BOSS",
   "clickcommand": "viewrecipe",

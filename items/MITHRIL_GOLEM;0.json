@@ -6,11 +6,11 @@
   "lore": [
     "§8Mining Pet",
     "",
-    "§7True Defense: §f{TRUE_DEFENSE}",
+    "§7True 防御: §f{TRUE_DEFENSE}",
     "§7Mining Fortune: §6{MINING_FORTUNE}",
     "",
     "§6Mithril Affinity",
-    "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+    "§7Grants §6+{0}⸕ 采矿速度 §7when mining",
     "§2Mithril§7.",
     "",
     "§eRight-click to add this pet to your",

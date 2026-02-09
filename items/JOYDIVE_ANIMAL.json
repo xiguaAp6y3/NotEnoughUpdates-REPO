@@ -7,7 +7,7 @@
     "§7The Joydive has a §a16% §7chance to spawn every Skyblock Hour.",
     "",
     "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal",
-    "§c❤ Health§8: §c200"
+    "§c❤ 生命§8: §c200"
   ],
   "internalname": "JOYDIVE_ANIMAL",
   "clickcommand": "viewrecipe",

@@ -9,7 +9,7 @@
     "§7drop the Treasurite material used in the Forge.",
     "",
     "§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean",
-    "§c❤ Health§8: §c15,000"
+    "§c❤ 生命§8: §c15,000"
   ],
   "internalname": "TREASURE_HOARDER_MONSTER",
   "clickcommand": "viewrecipe",

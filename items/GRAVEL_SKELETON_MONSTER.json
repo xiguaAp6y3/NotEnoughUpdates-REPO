@@ -7,7 +7,7 @@
     "§7These Skeletons just never say",
     "§7die.",
     "",
-    "§c❤ Health§8: §c100"
+    "§c❤ 生命§8: §c100"
   ],
   "internalname": "GRAVEL_SKELETON_MONSTER",
   "clickcommand": "viewrecipe",
